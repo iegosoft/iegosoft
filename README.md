@@ -1,6 +1,6 @@
 
 <p align="center">
-  I ❤️ resolver grandes desafios usando tecnologia. <br><br> 
+Amo resolver grandes desafios usando tecnologia. <br><br> 
   Estudante de Engenharia de Software, apaixonado por aprender e criar soluções inovadoras. 
   Tenho experiência com desenvolvimento de <b>apps móveis</b>, <b>backend em Node.js</b>, <b>React</b>, <b>.NET</b> e 
   projetos que envolvem <b>interoperabilidade e automação inteligente</b>. 
