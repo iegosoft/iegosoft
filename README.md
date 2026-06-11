@@ -1,56 +1,182 @@
-
-<p align="center">
-Amo resolver grandes desafios usando tecnologia. <br><br> 
-  Estudante de Engenharia de Software, apaixonado por aprender e criar soluções inovadoras. 
-  Tenho experiência com desenvolvimento de <b>apps móveis</b>, <b>backend em Node.js</b>, <b>React</b>, <b>.NET</b> e 
-  projetos que envolvem <b>interoperabilidade e automação inteligente</b>. 
-  Estou sempre em busca de evoluir minhas habilidades e colaborar em projetos que gerem impacto real.
-</p>&nbsp;
-&nbsp;
-&nbsp;
-
-## 🚀 Minhas Skills
-
-#### 🌐 Main Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Iego">
-
-#### 📚 Secondary Stack:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-#### 🗄️ Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-#### 🛠️ Ferramentas:
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## 📬 Contatos
-
-<div align="center"> 
-  <a href="https://www.instagram.com/iegocosta_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:iego.costa@ufam.edu.br">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/iegocosta/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:512BD4&height=200&section=header&text=Iego%20Costa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20.NET%20%7C%20Engenharia%20de%20Software%20%40%20UFAM&descAlignY=58&descSize=16&descColor=a5b4fc"/>
 </div>
 
-&nbsp;&nbsp;
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend+.NET+%26+C%23;Construindo+APIs+com+ASP.NET+Core;Estudante+de+Eng.+de+Software+%40+UFAM;Amazonas+%F0%9F%8C%BF+%E2%86%92+Remoto+%F0%9F%8C%8E" alt="Typing SVG" />
+  </a>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+<br/>
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Engenharia de Software na UFAM** com foco em desenvolvimento **backend com .NET e C#**. Estou construindo um portfólio de APIs reais que resolvem problemas reais — do controle financeiro pessoal à gestão de processos seletivos.
+
+Acredito que código bem estruturado é aquele que qualquer dev consegue entender, manter e evoluir. Por isso sigo padrões como **Clean Architecture**, **Conventional Commits** e **CI/CD** desde o primeiro projeto.
+
+```csharp
+var iego = new Developer
+{
+    Nome       = "Iego Costa",
+    Localização = "Amazonas, Brasil 🌿",
+    Foco       = "Backend .NET | APIs RESTful | C#",
+    Buscando   = "Estágio em Desenvolvimento de Software",
+    Contato    = "iego.costa@ufam.edu.br"
+};
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+#### ⚙️ Backend — foco principal
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+
+#### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+
+#### 🌐 Frontend (conhecimento complementar)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+#### 🔧 Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
+
+<br/>
+
+## 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 FinFlow API</h3>
+      <div align="center">
+        <a href="https://github.com/iegocosta/finflow-api">
+          <img src="https://img.shields.io/badge/Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+        </a>
+        <br/><br/>
+        <p>API RESTful de controle financeiro pessoal. CRUD completo, autenticação JWT, relatórios mensais por categoria e documentação Swagger.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📅 AgendaFácil API</h3>
+      <div align="center">
+        <a href="https://github.com/iegocosta/agendafacil-api">
+          <img src="https://img.shields.io/badge/Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+        </a>
+        <br/><br/>
+        <p>Sistema de agendamento para clínicas e pequenos negócios. Gestão de profissionais, horários disponíveis e validação de conflitos.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 EstoqueHub API</h3>
+      <div align="center">
+        <a href="https://github.com/iegocosta/estoquehub-api">
+          <img src="https://img.shields.io/badge/Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+        </a>
+        <br/><br/>
+        <p>Gestão de estoque para pequenos negócios com alertas automáticos, cache Redis e histórico paginado de movimentações.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 HireTrack API</h3>
+      <div align="center">
+        <a href="https://github.com/iegocosta/hiretrack-api">
+          <img src="https://img.shields.io/badge/Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <br/><br/>
+        <p>ATS completo com pipeline Kanban de candidatos, notificações em tempo real com SignalR e dashboard React. CI/CD com GitHub Actions.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iegocosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=a5b4fc&icon_color=7C3AED"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iegocosta&layout=compact&langs_count=6&theme=tokyonight&border_color=7C3AED&title_color=a5b4fc"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iegocosta&theme=tokyonight&border=7C3AED&ring=7C3AED&fire=a5b4fc&currStreakLabel=a5b4fc" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+## 📬 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iegocosta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:iego.costa@ufam.edu.br">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/iegocosta_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iegocosta&color=7C3AED&style=flat-square&label=Visitas+ao+perfil" alt="profile views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0d1117&height=120&section=footer"/>
+</div>
