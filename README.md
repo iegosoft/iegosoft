@@ -1,24 +1,16 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:512BD4&height=200&section=header&text=Iego%20Costa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20.NET%20%7C%20Engenharia%20de%20Software%20%40%20UFAM&descAlignY=58&descSize=16&descColor=a5b4fc"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Backend+.NET+%26+C%23;Construindo+APIs+com+ASP.NET+Core;Estudante+de+Eng.+de+Software+%40+UFAM;Amazonas+%F0%9F%8C%BF+%E2%86%92+Remoto+%F0%9F%8C%8E" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
+<h1 align="center">Iêgo Costa</h1>
 
 <p align="center">
-  Desenvolvedor Backend .NET • Criação de Sites para Empresas • Engenharia de Software @ UFAM
+  Backend Developer .NET &nbsp;•&nbsp; Criação de Sites para Empresas &nbsp;•&nbsp; Engenharia de Software @ UFAM
 </p>
 
 <p align="center">
-  <a href="mailto:iego.costa@ufam.edu.br">📧 E-mail</a> •
-  <a href="https://www.linkedin.com/in/iegocosta/">💼 LinkedIn</a> •
+  <a href="mailto:iego.costa@ufam.edu.br">📧 E-mail</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/iegocosta/">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://www.instagram.com/iegocosta_">📸 Instagram</a>
 </p>
+
+---
 
 ---
 
@@ -73,6 +65,4 @@ Estudante de **Engenharia de Software na UFAM – ICET (Itacoatiara/AM)** com ex
   <img src="https://komarev.com/ghpvc/?username=iegosoft&color=7C3AED&style=flat-square&label=Visitas+ao+perfil" alt="profile views"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0d1117&height=120&section=footer"/>
-</div>
+
