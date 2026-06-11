@@ -65,7 +65,7 @@ var iego = new Developer
     <td width="50%">
       <h3 align="center">💰 FinFlow API</h3>
       <div align="center">
-        <a href="https://github.com/iegocosta/finflow-api">
+        <a href="https://github.com/iegosoft/finflow-api">
           <img src="https://img.shields.io/badge/Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="#">
@@ -84,7 +84,7 @@ var iego = new Developer
     <td width="50%">
       <h3 align="center">📅 AgendaFácil API</h3>
       <div align="center">
-        <a href="https://github.com/iegocosta/agendafacil-api">
+        <a href="https://github.com/iegosoft/agendafacil-api">
           <img src="https://img.shields.io/badge/Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="#">
@@ -104,7 +104,7 @@ var iego = new Developer
     <td width="50%">
       <h3 align="center">📦 EstoqueHub API</h3>
       <div align="center">
-        <a href="https://github.com/iegocosta/estoquehub-api">
+        <a href="https://github.com/iegosoft/estoquehub-api">
           <img src="https://img.shields.io/badge/Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="#">
@@ -123,7 +123,7 @@ var iego = new Developer
     <td width="50%">
       <h3 align="center">🎯 HireTrack API</h3>
       <div align="center">
-        <a href="https://github.com/iegocosta/hiretrack-api">
+        <a href="https://github.com/iegosoft/hiretrack-api">
           <img src="https://img.shields.io/badge/Repositório-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="#">
@@ -147,12 +147,12 @@ var iego = new Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iegocosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=a5b4fc&icon_color=7C3AED"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iegocosta&layout=compact&langs_count=6&theme=tokyonight&border_color=7C3AED&title_color=a5b4fc"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iegosoft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=a5b4fc&icon_color=7C3AED"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iegosoft&layout=compact&langs_count=6&theme=tokyonight&border_color=7C3AED&title_color=a5b4fc"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iegocosta&theme=tokyonight&border=7C3AED&ring=7C3AED&fire=a5b4fc&currStreakLabel=a5b4fc" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=iegosoft&theme=tokyonight&border=7C3AED&ring=7C3AED&fire=a5b4fc&currStreakLabel=a5b4fc" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -160,13 +160,13 @@ var iego = new Developer
 ## 📬 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/iegocosta/" target="_blank">
+  <a href="https://www.linkedin.com/in/iegosoft/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:iego.costa@ufam.edu.br">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/iegocosta_" target="_blank">
+  <a href="https://www.instagram.com/iegosoft_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
@@ -174,7 +174,7 @@ var iego = new Developer
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iegocosta&color=7C3AED&style=flat-square&label=Visitas+ao+perfil" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=iegosoft&color=7C3AED&style=flat-square&label=Visitas+ao+perfil" alt="profile views"/>
 </div>
 
 <div align="center">
