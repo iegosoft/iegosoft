@@ -1,7 +1,7 @@
-<h1 align="center">Iêgo Costa</h1>
+<h1 align="center">Hi, I'm Iego Costa and this is my Github !</h1>
 
 <p align="center">
-  Backend Developer .NET &nbsp;•&nbsp; Criação de Sites para Empresas &nbsp;•&nbsp; Engenharia de Software @ UFAM
+  Backend Developer .NET &nbsp;•&nbsp; Website Builder for Businesses &nbsp;•&nbsp; Software Engineering @ UFAM
 </p>
 
 <p align="center">
