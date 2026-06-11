@@ -10,53 +10,45 @@
 
 <br/>
 
-## 👨‍💻 Sobre mim
+<p align="center">
+  Desenvolvedor Backend .NET • Criação de Sites para Empresas • Engenharia de Software @ UFAM
+</p>
 
-Sou estudante de **Engenharia de Software na UFAM** com foco em desenvolvimento **backend com .NET e C#**. Estou construindo um portfólio de APIs reais que resolvem problemas reais — do controle financeiro pessoal à gestão de processos seletivos.
+<p align="center">
+  <a href="mailto:iego.costa@ufam.edu.br">📧 E-mail</a> •
+  <a href="https://www.linkedin.com/in/iegocosta/">💼 LinkedIn</a> •
+  <a href="https://www.instagram.com/iegocosta_">📸 Instagram</a>
+</p>
 
-Acredito que código bem estruturado é aquele que qualquer dev consegue entender, manter e evoluir. Por isso sigo padrões como **Clean Architecture**, **Conventional Commits** e **CI/CD** desde o primeiro projeto.
+---
 
-```csharp
-var iego = new Developer
-{
-    Nome       = "Iego Costa",
-    Localização = "Amazonas, Brasil 🌿",
-    Foco       = "Backend .NET | APIs RESTful | C#",
-    Buscando   = "Estágio em Desenvolvimento de Software",
-    Contato    = "iego.costa@ufam.edu.br"
-};
-```
+## Sobre mim
 
-<br/>
+Estudante de **Engenharia de Software na UFAM – ICET (Itacoatiara/AM)** com experiência em desenvolvimento web full-stack e foco crescente em **backend com .NET e C#**. Desenvolvo sistemas completos — de APIs RESTful a sites institucionais para empresas.
 
-## 🛠️ Tech Stack
+- 🎯 **Foco principal:** Backend com C# e ASP.NET Core, criando APIs robustas com autenticação, documentação Swagger e boas práticas de arquitetura.
+- 🌐 **Web full-stack:** Tenho experiência real com React, Node.js, Express e MongoDB — já entregando sistemas em produção, incluindo um sistema de agendamento completo com testes E2E.
+- 🏢 **Sites para empresas:** Crio landing pages e sites institucionais para pequenos e médios negócios, com foco em performance e design.
+- 🤖 **Além do web:** Participei de projetos de visão computacional com Python (reconhecimento facial para controle de presença).
+- ☁️ **Deploy e infra:** Experiência com Vercel, Render, MongoDB Atlas e noções de Docker e GitHub Actions.
 
-#### ⚙️ Backend — foco principal
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+---
 
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+## Stack
 
-#### 🌐 Frontend (conhecimento complementar)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+**Linguagens e Frameworks**
 
-#### 🔧 Ferramentas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,python" />
+</p>
 
-<br/>
+**Infraestrutura, Banco de Dados e Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,githubactions,vercel,vscode" />
+</p>
+
+---
 
 
 <br/>
@@ -74,19 +66,6 @@ var iego = new Developer
 
 <br/>
 
-## 📬 Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/iegosoft/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:iego.costa@ufam.edu.br">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/iegosoft_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
 
 <br/>
 
